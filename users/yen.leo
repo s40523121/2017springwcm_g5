@@ -33,21 +33,38 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
-<v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
+<v t="leo.20170623021218.1" a="E"><vh>slides div</vh>
+<v t="leo.20170623021218.2" a="E"><vh>封面投影片</vh>
+<v t="leo.20170623021218.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.16" a="E"><vh>快捷鍵</vh>
-<v t="yen.20170108171733.17"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170623021218.4" a="E"><vh>目錄</vh>
+<v t="leo.20170623021218.5"><vh>目錄</vh></v>
 </v>
-<v t="yen.20170108171733.64" a="E"><vh>各式內容引用範例</vh>
-<v t="yen.20170108171733.65" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170108171733.66"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170623021218.6" a="E"><vh>機械設計是什麼？</vh>
+<v t="leo.20170623021218.7"><vh>機械設計是什麼？</vh></v>
 </v>
-<v t="yen.20170108171733.67" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170108171733.68"><vh>引用程式碼</vh></v>
+<v t="leo.20170623021920.1" a="E"><vh>網路線</vh>
+<v t="leo.20170623021920.2"><vh>網路線</vh></v>
 </v>
-<v t="yen.20170108171733.69" a="E"><vh>導入影片</vh>
-<v t="yen.20170108171733.70"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170623044704.1" a="E"><vh>CMS</vh>
+<v t="leo.20170623045213.1" a="E"><vh>CMS介紹</vh>
+<v t="leo.20170623044704.2"><vh>CMS</vh></v>
+</v>
+<v t="leo.20170623045238.1" a="E"><vh>CMS應用</vh>
+<v t="leo.20170623045238.2"><vh>CMS應用</vh></v>
+</v>
+</v>
+<v t="leo.20170623024203.1" a="E"><vh>CMSIMPLY</vh>
+<v t="leo.20170623024203.2"><vh>CMSIMPLY</vh></v>
+</v>
+<v t="leo.20170623052303.1"><vh>FOSSIL</vh>
+<v t="leo.20170623052303.2"><vh>FOSSIL</vh></v>
+</v>
+<v t="leo.20170623054209.1"><vh>VIRTUALBOX</vh>
+<v t="leo.20170623054209.2"><vh>VIRTUALBOX介紹</vh></v>
+</v>
+<v t="leo.20170623055612.1" a="E"><vh>Thx</vh>
+<v t="leo.20170623055612.2"><vh>thx</vh></v>
 </v>
 </v>
 </v>
@@ -67,6 +84,231 @@
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170623021218.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170623021218.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623021218.3">## 2017Spring 網際內容管理課程
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [springwcm_g5](https://mde2a2.kmol.info/wcmg5/index)
+&lt;/small&gt;
+
+[40523108](blog/index.html)
+[40523117](blog/index.html)&lt;br&gt;
+[40523121](blog/index.html)
+[40523137](blog/index.html)&lt;br&gt;
+[40523140](blog/index.html)
+[40523142](blog/index.html)</t>
+<t tx="leo.20170623021218.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623021218.5"># 目錄
+
+&lt;p align=left &gt;
+&lt;ul&gt;
+&lt;li&gt;機械設計是甚麼
+&lt;li&gt;網路線
+&lt;li&gt;CMS
+&lt;li&gt;CMSIMPLY 
+&lt;ll&gt;FOSSIL
+&lt;li&gt;VIRTUALBOX
+&lt;/ul&gt;
+&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170623021218.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623021218.7"># 機械設計是什麼？
+
+&lt;P&gt;
+&lt;FONT color=FFFF00  size=7&gt;
+&lt;MARQUEE behavior=alternate width="742" height="60"&gt;
+機械設計就是一種表達!!
+&lt;/MARQUEE&gt;
+&lt;/FONT&gt;
+&lt;/P&gt; 
+&lt;p align=left&gt;&lt;font  color="00BFFF"&gt; 機:&lt;/font&gt;精巧的配置。&lt;/p&gt;
+&lt;p align=left&gt;&lt;font  color="00BFFF"&gt; 械:&lt;/font&gt;每個設計出來的產品，都有其固定功能。&lt;/p&gt;
+&lt;p align=left&gt;&lt;font  color="00BFFF"&gt; 設:&lt;/font&gt; 表達結果。&lt;/p&gt;
+&lt;p align=left&gt;&lt;font  color="00BFFF"&gt; 計:&lt;/font&gt;詳細思慮、考量。&lt;/p&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170623021920.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623021920.2"># 網路線
+
+&lt;img src="http://pic.pimg.tw/finalfrank/06247b6e58e3b3a31180cd54a55653d3.gif"width=400 height=150 &gt;&lt;img src="http://image.big5.made-in-china.com/2f0j01uvHaTwmqCMbU/%E8%B6%85%E4%BA%94%E7%B1%BB%E7%BD%91%E7%BB%9C%E7%BA%BFHSYV-5E+%E8%BE%BE%E6%A0%87%E8%B6%85%E4%BA%94%E7%B1%BB+CAT+5+UTP+Cable+%E8%BF%87%E6%B5%8B%E8%AF%95.jpg"width=400 height=150 &gt;
+&lt;p align=left&gt;&lt;font  color="FFFF00"&gt; 各顏色線用途&lt;/font&gt;&lt;/p&gt;
+&lt;hr color="red"&gt;
+&lt;p align=left&gt;&lt;font  color="FFA500"&gt; 白橙:&lt;/font&gt;傳送資料正極 &lt;font  color="F4A460"&gt; TX+&lt;/font&gt;&lt;/p&gt;
+&lt;p align=left&gt;&lt;font  color="FF8C00"&gt; 橙:&lt;/font&gt;傳送資料負極 &lt;font  color="F4A460"&gt; TX-&lt;/font&gt;&lt;/p&gt;
+&lt;p align=left&gt;&lt;font  color="ADFF2F"&gt; 白綠:&lt;/font&gt;接收資料正極 &lt;font  color="F4A460"&gt; RX+&lt;/font&gt;&lt;/p&gt;
+&lt;p align=left&gt;&lt;font  color="008000"&gt; 綠:&lt;/font&gt;接收資料負極 &lt;font  color="F4A460"&gt; RX-&lt;/font&gt;&lt;/p&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170623024203.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623024203.2"># CMSIMPLY
+
+&lt;p align=left&gt;&lt;font  color="yello"&gt; CMSimply介紹&lt;/font&gt;&lt;/p&gt;
+&lt;hr color="red"&gt;
+ &lt;p align=left&gt;&lt;font  color="FFC0CB"&gt; CMSimply&lt;/font&gt;是一個基於雲端的內容管理系統，將網站內容保存到名為&lt;font  color="00FF00"&gt; content.htm&lt;/font&gt;的文件中，因此不需要數資料庫。&lt;/p&gt;
+
+&lt;p align=left&gt;&lt;font  color="yello"&gt; CMSimply特色&lt;/font&gt;&lt;/p&gt;
+&lt;hr color="red"&gt;
+ &lt;p align=left&gt;&lt;font  color="FFC0CB"&gt; CMSimply&lt;/font&gt;是由&lt;font  color="00FFFF"&gt; Python 3 &lt;/font&gt; 和&lt;font  color="00FFFF"&gt; CherryPy &lt;/font&gt;程式語言寫成的，可以在網站中建立很多子目錄，&lt;font  color="FFC0CB"&gt; CMSimply&lt;/font&gt;是使用&lt;font  color="FF69B4"&gt; html h1.h2&lt;/font&gt;和&lt;font  color="FF69B4"&gt;h3&lt;/font&gt;標籤來分離頁面。要注意的是由於標題用於標識每個唯一頁面，所以不能在CMSimply中使用重複的標題。 &lt;/p&gt;
+ CMSimply原始碼位置&lt;a href="https://github.com/chiamingyen/cmsimply"target='_blank'&gt;CMSimply&lt;/a&gt;
+
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20170623044704.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170623044704.2">#&lt;H2&gt;CMS-網站內容管理系統&lt;/H&gt;
+
+&lt;p align=left&gt;&lt;font  color="FFFF00"&gt; CMS介紹&lt;/font&gt;&lt;/p&gt;
+&lt;hr color="red"&gt;
+&lt;p align=left&gt;所有能夠讓使用者自行更新的程式語言/程式系統都可稱為&lt;font  color="F0E68C"&gt; CMS(網站內容管理系統)&lt;/font&gt;，並沒有一個既定的模式規限開發者或用者。最常見的是所謂&lt;font  color="BA55D3"&gt;『後台』&lt;/font&gt;設計，其實是一個線上更新資料的程式/系統，可以是:
+&lt;ul&gt;
+&lt;li&gt;由程式開發者專門為閣下的網頁設計而設所製作的程式。
+&lt;li&gt;由網絡共享資源下載的免費程式。
+&lt;li&gt;由伺服器供應商提供連接網存服務的程式/系統。
+&lt;/ul&gt;
+&lt;/p&gt;
+
+
+
+
+
+						
+</t>
+<t tx="leo.20170623045213.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623045238.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623045238.2">&lt;p align=left&gt;&lt;font  color="FFFF00"&gt; CMS應用&lt;/font&gt;&lt;/p&gt;
+&lt;hr color="red"&gt;
+ &lt;p align=left &gt;目前台灣比較常見到的&lt;font color="F0E68C"&gt; CMS&lt;/font&gt;有&lt;font color="87CEEB"&gt; Moodle、Drupal 、Xoops、Joomla、Wordpress...&lt;/font&gt;等。依功能性來區分&lt;font color="FFB6C1"&gt; Moodle&lt;/font&gt;比較偏向課程管理系統，主要用在像是學習網之類的學習網站；&lt;font color="00FF7F	"&gt; Drupal&lt;/font&gt;本身有提供許多的模組&lt;font color="FFB6C1"&gt; (Moodle)&lt;/font&gt;(配合這些&lt;font color="00FF7F	"&gt; Drupal&lt;/font&gt;模組可以架出非常多類型的網站。&lt;/p&gt;
+
+
+						
+</t>
+<t tx="leo.20170623052303.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623052303.2"># FOSSIL
+
+&lt;p align=left&gt;&lt;font  color="FFFF00"&gt; FOSSIL特色&lt;/font&gt;&lt;/p&gt;
+&lt;hr color="red"&gt;
+&lt;p align=left&gt;一般人對於軟體本身的使用需求，多半是希望操作越簡單越好，並有相當程度的穩定性與可靠性。而&lt;font  color="ADFF2F"&gt; Fossil&lt;/font&gt;所強調的兩大特點:
+&lt;p align=left &gt;
+&lt;ul&gt;
+&lt;li&gt;即使沒有使用版本控制軟體的經驗，也能在閱讀&lt;font  color="ADFF2F"&gt; Fossil&lt;/font&gt;提供的簡單文件之後立即上手。
+&lt;li&gt;&lt;font  color="ADFF2F"&gt; Fossil&lt;/font&gt;採用 &lt;font  color="FFA500	"&gt; SQLite&lt;/font&gt;資料庫作為資料儲存的平台，再加上永久性的檔案結構，所以即使在使用中遭遇系統不正常斷電或主機元件毀損等問題，資料也不會損失。
+&lt;/ul&gt;
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20170623054209.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623054209.2"># VIRTUALBOX
+
+&lt;p align=left&gt;&lt;font  color="FFFF00"&gt; VIRTUALBOX介紹&lt;/font&gt;&lt;/p&gt;
+&lt;hr color="red"&gt;
+&lt;p align=left&gt;主要是創建一個模擬的PC個人電腦的硬體環境， 讓我們可以在虛擬的電腦硬體中&lt;font color="ADFF2F"&gt; 安裝作業系統、 測試軟體&lt;/font&gt;安裝作或&lt;font color="9370DB"&gt; 病毒&lt;/font&gt;等， 透過&lt;font color="00BFFF"&gt; VirtualBox&lt;/font&gt;安裝好的作業系統可以跟你現在的電腦系統同時運作， 而且兩個系統的資料與程式不會互相干擾或影響， 算是一個&lt;font color="FA8072"&gt; 完全獨立&lt;/font&gt;的作業環境讓我們測試各種軟體或功能。
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+						
+</t>
+<t tx="leo.20170623055612.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170623055612.2"># &lt;img src='http://www.the-numbers.com/video/This-Is-The-End/This-Is-The-End-poster.jpg'&gt;
+
+
+
+						
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -224,48 +466,6 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;
 
 </t>
-<t tx="yen.20170108171733.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170108171733.15">## 2017Spring 網際內容管理課程
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [springwcm_g5](https://mde2a2.kmol.info/wcmg5/index)
-&lt;/small&gt;
-
-[40523108](blog/index.html)
-[40523117](blog/index.html)&lt;br&gt;
-[40523121](blog/index.html)
-[40523137](blog/index.html)&lt;br&gt;
-[40523140](blog/index.html)
-[40523142](blog/index.html)</t>
-<t tx="yen.20170108171733.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170108171733.17"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
 <t tx="yen.20170108171733.2">@language python
 import os
 #os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
@@ -275,81 +475,6 @@ g.es("admin pelican 近端執行完畢")
 
 </t>
 <t tx="yen.20170108171733.5"></t>
-<t tx="yen.20170108171733.64">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170108171733.65">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170108171733.66"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170108171733.67">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170108171733.68">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170108171733.69">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170108171733.70">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170108171733.71"></t>
 <t tx="yen.20170108171733.8">@language xml
 @tabwidth -4
